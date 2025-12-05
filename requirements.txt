@@ -1,0 +1,11 @@
+# Core dependencies
+opentelemetry-api>=1.22.0
+opentelemetry-sdk>=1.22.0
+opentelemetry-exporter-otlp-proto-http>=1.22.0
+
+# OpenInference instrumentation (optional)
+openinference-instrumentation-openai>=0.1.0
+
+# Example dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
