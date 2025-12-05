@@ -12,17 +12,8 @@ A minimal Python SDK that wraps OpenTelemetry and OpenInference for seamless LLM
 
 ## Installation
 
-### From source
-
 ```bash
-pip install -r requirements.txt
-```
-
-### From GitHub
-
-```bash
-pip install "git+https://github.com/DimRedLabs/dimred-python-sdk.git@main"
-pip install -r requirements.txt
+pip install dimredtracer
 ```
 
 ## Quick Start
